@@ -6,11 +6,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @author 翟永超
- * @create 2017/4/15.
- * @blog http://blog.didispace.com
- */
 @RestController
 public class DcController {
 
